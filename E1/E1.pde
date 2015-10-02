@@ -13,8 +13,7 @@ void draw()
   fill(0);
   ellipse(150, 250, x, x);
   ellipse(350, 250, x, x);
-  println(--x); 
-  x=x%55;
+  x--; 
   
 
 
