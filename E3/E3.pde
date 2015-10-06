@@ -7,10 +7,10 @@ void setup()
 {
   size(640,480);
   background(255);  
-  bird = loadImage("img/bird.jpg");
-  cat = loadImage("img/cat.jpg");
-  coke = loadImage("img/coke.jpg");
-  mouse = loadImage("img/mouse.jpg");
+  bird = loadImage("E3Pic/bird.jpg");
+  cat = loadImage("E3Pic/cat.jpg");
+  coke = loadImage("E3Pic/coke.jpg");
+  mouse = loadImage("E3Pic/mouse.jpg");
   
   x=0;
   y=0;
